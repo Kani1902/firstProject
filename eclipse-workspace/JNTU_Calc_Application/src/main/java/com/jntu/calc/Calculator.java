@@ -22,7 +22,7 @@ public class Calculator {
         Calculator c = new Calculator();
         System.out.println("Add: " + c.add(10, 5));
         System.out.println("Subtract: " + c.subtract(10, 5));
-        System.out.println("Multy: " + c.multiply(10, 5));
+        System.out.println("Multiply: " + c.multiply(10, 5));
         System.out.println("Divide: " + c.divide(10, 5));
     }
 }
