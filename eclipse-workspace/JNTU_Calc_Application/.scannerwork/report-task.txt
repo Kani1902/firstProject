@@ -1,0 +1,6 @@
+projectKey=JNTU_Calc_Application
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=JNTU_Calc_Application
+ceTaskId=191c90e1-f80f-42b7-bb7a-b4f18f79ffb8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=191c90e1-f80f-42b7-bb7a-b4f18f79ffb8
